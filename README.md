@@ -170,11 +170,3 @@ _  guión bajo
 | Contenido 2-1 | Contenido 2-2 | Contenido 2-3 |
 | Contenido 3-1 | Contenido 3-2 | Contenido 3-3 |
 
-
-<!--   -->
-
-<!--   -->
-<!--   -->
-<!--   -->
-
-<!--   -->
